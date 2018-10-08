@@ -1,5 +1,4 @@
 # SuperMarket-Python
-Quick supermarket code 
 
 class GroceryList(object):
   def __init__(self, sList):
