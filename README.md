@@ -1,5 +1,5 @@
 # SuperMarket-Python
-
+ 
 class GroceryList(object):
   def __init__(self, sList):
     self.shoping_list = sList
