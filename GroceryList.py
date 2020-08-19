@@ -57,6 +57,6 @@ print("\nAfter Customer's purchase today,")
 
 print(jensen_list.compute_bill(my_shopping_list, stock, prices))
 
-print("one more change")
+print("Another change")
 
 
